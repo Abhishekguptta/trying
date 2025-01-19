@@ -5,3 +5,5 @@ simple node setup
 it is a node setup
 
 now you can install form here and you can install form here and you can install form here and you can install form here and you can
+
+node cannot be run alone
